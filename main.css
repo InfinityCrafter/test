@@ -220,11 +220,11 @@ body {
   z-index: 2;
 }
 .layers-front2 {
-  transform: translate3d(0, calc(var(--scrollTop) / 35), 0);
+  transform: translate3d(0, calc(var(--scrollTop) / 32), 0);
   z-index: 2;
 }
 .layers-front3 {
-  transform: translate3d(0, calc(var(--scrollTop) / 40), 0);
+  transform: translate3d(0, calc(var(--scrollTop) / 45), 0);
 }
 
 .layer_header {
