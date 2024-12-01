@@ -102,7 +102,7 @@ body {
   z-index: 100;
 
   height: calc(var(--index) * 22);
-  background-image: url(../img/ground1.png);
+  background-image: url(ground1.png);
   bottom: calc(var(--index) * -9);
 
   width: 100%;
